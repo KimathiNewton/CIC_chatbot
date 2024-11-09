@@ -1,0 +1,1298 @@
+[
+  {
+    "question": "What services are covered under preventive care?",
+    "text": "Preventive care typically includes annual check-ups, vaccinations, and screenings. Coverage varies, so refer to your policy for specific services.",
+    "policy": "Health Insurance",
+    "id": "ac3af67e"
+  },
+  {
+    "question": "Can I add dependents to my health insurance plan?",
+    "text": "Yes, most health insurance plans allow you to add dependents during open enrollment or after a qualifying life event, like marriage or childbirth.",
+    "policy": "Health Insurance",
+    "id": "7fc6cf18"
+  },
+  {
+    "question": "Is dental care included in my health insurance?",
+    "text": "Standard health insurance plans often exclude dental. However, some providers offer add-ons or separate dental plans for comprehensive care.",
+    "policy": "Health Insurance",
+    "id": "419cb9ad"
+  },
+  {
+    "question": "Does health insurance cover prescription medications?",
+    "text": "Prescription medication coverage varies by plan. Many plans cover a range of medications, subject to copayments or deductibles.",
+    "policy": "Health Insurance",
+    "id": "1dc03e8e"
+  },
+  {
+    "question": "What is the out-of-pocket maximum?",
+    "text": "The out-of-pocket maximum is the highest amount you'll pay in a policy period before your insurance covers 100% of allowed costs.",
+    "policy": "Health Insurance",
+    "id": "04e7a441"
+  },
+  {
+    "question": "What does liability insurance cover?",
+    "text": "Liability insurance covers damages you cause to others, including bodily injury and property damage. It does not cover your own vehicle or injuries.",
+    "policy": "Auto Insurance",
+    "id": "c95e0c47"
+  },
+  {
+    "question": "Are rental cars covered by my auto insurance?",
+    "text": "Some policies cover rental cars, but it's best to confirm with your provider. Rental companies may also offer additional coverage options.",
+    "policy": "Auto Insurance",
+    "id": "8a8568e3"
+  },
+  {
+    "question": "What is uninsured motorist coverage?",
+    "text": "Uninsured motorist coverage helps pay for damages if you're hit by a driver without insurance or insufficient coverage.",
+    "policy": "Auto Insurance",
+    "id": "8ade9655"
+  },
+  {
+    "question": "Is my car covered if someone else is driving?",
+    "text": "Most policies cover other drivers with permission to use your car. However, this varies, so confirm with your provider for exact details.",
+    "policy": "Auto Insurance",
+    "id": "e839b027"
+  },
+  {
+    "question": "How does auto insurance cover natural disasters?",
+    "text": "Comprehensive coverage can protect your car against natural disasters like floods, hurricanes, and fires. Check your policy to ensure it includes this.",
+    "policy": "Auto Insurance",
+    "id": "cb156e71"
+  },
+  {
+    "question": "Does homeowners insurance cover mold damage?",
+    "text": "Mold damage is often covered if caused by a sudden event, like water damage from a burst pipe. Gradual mold growth is typically not covered.",
+    "policy": "Homeowners Insurance",
+    "id": "a5adb6c4"
+  },
+  {
+    "question": "Can I get coverage for high-value items like jewelry?",
+    "text": "Yes, many policies offer additional riders to cover high-value items. Standard policies may have limits, so an add-on may be necessary.",
+    "policy": "Homeowners Insurance",
+    "id": "caae3806"
+  },
+  {
+    "question": "Is my property covered while I\u00e2\u20ac\u2122m traveling?",
+    "text": "Personal property coverage often applies to items even while traveling, though limits may vary by item and location.",
+    "policy": "Homeowners Insurance",
+    "id": "9dada737"
+  },
+  {
+    "question": "What does personal liability cover in homeowners insurance?",
+    "text": "Personal liability covers legal and medical costs if someone is injured on your property or if you damage someone else\u00e2\u20ac\u2122s property.",
+    "policy": "Homeowners Insurance",
+    "id": "99a89f09"
+  },
+  {
+    "question": "Are natural disasters covered by standard homeowners insurance?",
+    "text": "Standard policies typically cover some natural disasters, like fires and lightning, but may exclude others, such as floods and earthquakes.",
+    "policy": "Homeowners Insurance",
+    "id": "f102eca7"
+  },
+  {
+    "question": "What should I do if my health insurance claim is denied?",
+    "text": "If your claim is denied, you should contact your insurance provider for a detailed explanation. You can also appeal the decision by submitting additional information.",
+    "policy": "Health Insurance",
+    "id": "11404f3b"
+  },
+  {
+    "question": "How do I find in-network providers?",
+    "text": "You can find in-network providers by visiting your insurer's website or calling their customer service. They typically have a searchable directory.",
+    "policy": "Health Insurance",
+    "id": "c8e9ccf1"
+  },
+  {
+    "question": "Are alternative therapies covered under my health plan?",
+    "text": "Coverage for alternative therapies varies by plan. Some plans may cover services like acupuncture or chiropractic care; check your policy for details.",
+    "policy": "Health Insurance",
+    "id": "d629a97a"
+  },
+  {
+    "question": "What is a deductible in health insurance?",
+    "text": "A deductible is the amount you pay out-of-pocket for healthcare services before your insurance begins to pay. It resets annually.",
+    "policy": "Health Insurance",
+    "id": "7cf22ed9"
+  },
+  {
+    "question": "Can I use my health insurance when traveling abroad?",
+    "text": "Many health insurance plans do not cover care received outside your home country. Consider purchasing travel insurance for coverage while abroad.",
+    "policy": "Health Insurance",
+    "id": "13860509"
+  },
+  {
+    "question": "What is comprehensive auto insurance?",
+    "text": "Comprehensive insurance covers damages to your car from non-collision events like theft, vandalism, fire, or natural disasters.",
+    "policy": "Auto Insurance",
+    "id": "3ccba661"
+  },
+  {
+    "question": "Will my auto insurance cover repairs after an accident?",
+    "text": "Yes, if you have collision coverage, your policy will help cover the cost of repairs after an accident, minus your deductible.",
+    "policy": "Auto Insurance",
+    "id": "8001944d"
+  },
+  {
+    "question": "What factors affect my auto insurance premium?",
+    "text": "Factors that affect your premium include your driving history, the type of vehicle, your age, location, and credit score.",
+    "policy": "Auto Insurance",
+    "id": "ce16bbfd"
+  },
+  {
+    "question": "How do I file an auto insurance claim?",
+    "text": "To file a claim, contact your insurance provider as soon as possible. You will need to provide details about the accident and any relevant documentation.",
+    "policy": "Auto Insurance",
+    "id": "603c40ad"
+  },
+  {
+    "question": "What is gap insurance?",
+    "text": "Gap insurance covers the difference between what you owe on your car loan and the car's actual cash value in case of a total loss.",
+    "policy": "Auto Insurance",
+    "id": "6a4712ad"
+  },
+  {
+    "question": "What is covered under dwelling coverage?",
+    "text": "Dwelling coverage protects the physical structure of your home against risks like fire, wind, and vandalism. It usually does not cover flooding.",
+    "policy": "Homeowners Insurance",
+    "id": "f1ea5e1e"
+  },
+  {
+    "question": "How can I lower my homeowners insurance premium?",
+    "text": "You can lower your premium by increasing your deductible, bundling policies, improving home security, and maintaining a good credit score.",
+    "policy": "Homeowners Insurance",
+    "id": "7f78c7ae"
+  },
+  {
+    "question": "What is liability coverage in homeowners insurance?",
+    "text": "Liability coverage helps protect you from legal claims if someone is injured on your property or if you accidentally cause damage to someone else's property.",
+    "policy": "Homeowners Insurance",
+    "id": "29ecc166"
+  },
+  {
+    "question": "Does homeowners insurance cover personal property theft?",
+    "text": "Yes, homeowners insurance typically covers personal property theft. However, there may be limits on certain high-value items, such as jewelry.",
+    "policy": "Homeowners Insurance",
+    "id": "b410450a"
+  },
+  {
+    "question": "What is replacement cost coverage?",
+    "text": "Replacement cost coverage pays for the cost to replace your damaged property with new items of similar kind and quality, without deducting for depreciation.",
+    "policy": "Homeowners Insurance",
+    "id": "ad29e466"
+  },
+  {
+    "question": "What is the difference between HMO and PPO plans?",
+    "text": "HMO (Health Maintenance Organization) plans require you to choose a primary care physician and get referrals for specialists, while PPO (Preferred Provider Organization) plans offer more flexibility to see any doctor without a referral.",
+    "policy": "Health Insurance",
+    "id": "fe250ffe"
+  },
+  {
+    "question": "How can I change my health insurance plan?",
+    "text": "You can change your health insurance plan during the open enrollment period. Outside of that, you may qualify for a special enrollment period due to qualifying life events.",
+    "policy": "Health Insurance",
+    "id": "3b1ec738"
+  },
+  {
+    "question": "What is a copayment?",
+    "text": "A copayment is a fixed amount you pay for a specific service at the time of receiving care, such as a doctor's visit or prescription medication.",
+    "policy": "Health Insurance",
+    "id": "17d54e74"
+  },
+  {
+    "question": "Does my health insurance cover preventive services?",
+    "text": "Most health insurance plans cover preventive services, such as vaccinations and annual check-ups, at no cost to you, as mandated by the Affordable Care Act.",
+    "policy": "Health Insurance",
+    "id": "8be1ffd0"
+  },
+  {
+    "question": "What happens if I miss the open enrollment period?",
+    "text": "If you miss the open enrollment period, you may have to wait until the next enrollment period unless you qualify for a special enrollment period due to certain life events.",
+    "policy": "Health Insurance",
+    "id": "10282486"
+  },
+  {
+    "question": "What does full coverage auto insurance include?",
+    "text": "Full coverage auto insurance typically includes liability, collision, and comprehensive coverage, protecting you from various risks.",
+    "policy": "Auto Insurance",
+    "id": "b024e9dd"
+  },
+  {
+    "question": "How often should I review my auto insurance policy?",
+    "text": "It's recommended to review your auto insurance policy annually or after any major life changes, such as moving, buying a new car, or changes in your driving habits.",
+    "policy": "Auto Insurance",
+    "id": "eeab82c6"
+  },
+  {
+    "question": "What should I do if I'm in a car accident?",
+    "text": "If you're in a car accident, ensure everyone is safe, call emergency services if needed, exchange information with other drivers, and report the accident to your insurance provider.",
+    "policy": "Auto Insurance",
+    "id": "43eb09c4"
+  },
+  {
+    "question": "Are rental cars covered under my auto insurance?",
+    "text": "Many auto insurance policies extend coverage to rental cars. Check with your provider to understand the specifics of your coverage.",
+    "policy": "Auto Insurance",
+    "id": "86483694"
+  },
+  {
+    "question": "What is a no-claims discount?",
+    "text": "A no-claims discount is a reduction in your insurance premium for not making any claims during a policy period. The more claim-free years you have, the higher your discount.",
+    "policy": "Auto Insurance",
+    "id": "04143ab5"
+  },
+  {
+    "question": "How is my homeowners insurance premium calculated?",
+    "text": "Your homeowners insurance premium is calculated based on factors such as your home's location, size, age, the materials used, your claims history, and your credit score.",
+    "policy": "Homeowners Insurance",
+    "id": "29750c01"
+  },
+  {
+    "question": "Does homeowners insurance cover natural disasters?",
+    "text": "Homeowners insurance typically covers certain natural disasters, like fire and wind. However, specific disasters, such as floods and earthquakes, usually require separate policies.",
+    "policy": "Homeowners Insurance",
+    "id": "040f3bad"
+  },
+  {
+    "question": "What is additional living expenses coverage?",
+    "text": "Additional living expenses (ALE) coverage helps pay for temporary living costs if you cannot live in your home due to a covered loss, such as a fire.",
+    "policy": "Homeowners Insurance",
+    "id": "9cb081f1"
+  },
+  {
+    "question": "What types of damages are excluded from homeowners insurance?",
+    "text": "Common exclusions include wear and tear, damage from pests, flood damage, and damages resulting from neglect or poor maintenance.",
+    "policy": "Homeowners Insurance",
+    "id": "60fe7680"
+  },
+  {
+    "question": "How do I file a claim for homeowners insurance?",
+    "text": "To file a claim, contact your insurance provider as soon as possible, provide details about the damage, and submit any necessary documentation, such as photos and repair estimates.",
+    "policy": "Homeowners Insurance",
+    "id": "53e76f9b"
+  },
+  {
+    "question": "What does my health insurance cover?",
+    "text": "Your health insurance covers general doctor visits, prescriptions, and emergency care. For specific coverage, please refer to your policy document.",
+    "policy": "Health Insurance",
+    "id": "0ab86d17"
+  },
+  {
+    "question": "Can I add family members to my plan?",
+    "text": "Yes, you can add family members to your health plan. Contact our customer service for additional documentation required.",
+    "policy": "Health Insurance",
+    "id": "cf4ba371"
+  },
+  {
+    "question": "Are mental health services covered?",
+    "text": "Our health insurance covers certain mental health services. For specifics, please consult your policy or speak with one of our representatives.",
+    "policy": "Health Insurance",
+    "id": "566a42be"
+  },
+  {
+    "question": "How can I file a claim for my car accident?",
+    "text": "To file a claim, please provide your policy number and accident details. Our claims team will get in touch within 24 hours for further steps.",
+    "policy": "Auto Insurance",
+    "id": "0d7350de"
+  },
+  {
+    "question": "What\u00e2\u20ac\u2122s the process for renewing my auto policy?",
+    "text": "You can renew your auto policy online through our portal, or call our customer service for assistance.",
+    "policy": "Auto Insurance",
+    "id": "22c1bc4b"
+  },
+  {
+    "question": "Does my policy cover rental cars?",
+    "text": "Rental car coverage may not be included in standard auto policies. Check your policy document or contact us to add rental car coverage.",
+    "policy": "Auto Insurance",
+    "id": "6b834380"
+  },
+  {
+    "question": "Does my policy cover flood damage?",
+    "text": "Standard home insurance does not cover flood damage. You may need an additional rider for flood coverage.",
+    "policy": "Home Insurance",
+    "id": "dced3c68"
+  },
+  {
+    "question": "Can I increase my home insurance coverage?",
+    "text": "Yes, you can increase your home insurance coverage. Reach out to our customer service team to discuss coverage options and updates.",
+    "policy": "Home Insurance",
+    "id": "885bd911"
+  },
+  {
+    "question": "How do I update my contact information?",
+    "text": "Please log in to your account on our website and go to 'Account Settings' to update your contact information.",
+    "policy": "Home Insurance",
+    "id": "82aaa87a"
+  },
+  {
+    "question": "What is the waiting period for pre-existing conditions?",
+    "text": "The waiting period for pre-existing conditions varies based on your specific plan. Typically, it ranges from 6 months to a year. Check your policy document for more details.",
+    "policy": "Health Insurance",
+    "id": "9d8897bb"
+  },
+  {
+    "question": "Can I claim for outpatient services?",
+    "text": "Outpatient services are covered under certain health plans. Please review your policy document or contact support for confirmation.",
+    "policy": "Health Insurance",
+    "id": "d886d935"
+  },
+  {
+    "question": "Is dental coverage included in my health policy?",
+    "text": "Dental coverage may not be included in standard health insurance but can be added as an optional benefit. Contact us to discuss add-on options.",
+    "policy": "Health Insurance",
+    "id": "8c34a472"
+  },
+  {
+    "question": "What is the deductible on my auto insurance?",
+    "text": "The deductible amount depends on your specific policy. Typically, it ranges from $500 to $1,000 for collision and comprehensive coverage. Please review your policy or contact us for specifics.",
+    "policy": "Auto Insurance",
+    "id": "e033baf5"
+  },
+  {
+    "question": "Can I get roadside assistance with my auto policy?",
+    "text": "Yes, roadside assistance can be included in your policy. Contact us to check if it's already included or to add it to your coverage.",
+    "policy": "Auto Insurance",
+    "id": "63fcaf8e"
+  },
+  {
+    "question": "How do I update my vehicle information?",
+    "text": "To update your vehicle information, log in to your account on our website and navigate to the 'My Policies' section.",
+    "policy": "Auto Insurance",
+    "id": "82361ac3"
+  },
+  {
+    "question": "Is my home office covered under home insurance?",
+    "text": "Standard home insurance typically covers home offices up to a certain limit. You may need additional coverage for high-value office equipment. Please consult your policy for details.",
+    "policy": "Home Insurance",
+    "id": "f02606d8"
+  },
+  {
+    "question": "How can I add coverage for valuable items?",
+    "text": "To add coverage for valuable items like jewelry or art, contact our support team. We offer riders specifically for high-value items.",
+    "policy": "Home Insurance",
+    "id": "6723abbb"
+  },
+  {
+    "question": "Does my policy cover temporary housing if my home is uninhabitable?",
+    "text": "Yes, our home insurance policies typically include coverage for temporary housing if your home is uninhabitable due to a covered loss.",
+    "policy": "Home Insurance",
+    "id": "b4485fe9"
+  },
+  {
+    "question": "What is covered under travel insurance?",
+    "text": "Our travel insurance covers trip cancellations, lost baggage, emergency medical expenses, and more. Review your policy for a complete list of covered events.",
+    "policy": "Travel Insurance",
+    "id": "e01caef4"
+  },
+  {
+    "question": "Does travel insurance cover COVID-19 expenses?",
+    "text": "COVID-19 related medical expenses are covered under certain travel insurance plans. Check your specific plan for coverage details.",
+    "policy": "Travel Insurance",
+    "id": "a4693db7"
+  },
+  {
+    "question": "How can I file a travel insurance claim?",
+    "text": "To file a travel insurance claim, gather your documents and fill out a claim form online, or contact our claims team for further assistance.",
+    "policy": "Travel Insurance",
+    "id": "198a5c31"
+  },
+  {
+    "question": "What types of life insurance do you offer?",
+    "text": "We offer term life, whole life, and universal life insurance plans. Contact our sales team for more details on each type.",
+    "policy": "Life Insurance",
+    "id": "dbc474b3"
+  },
+  {
+    "question": "Can I borrow against my life insurance policy?",
+    "text": "Yes, if you have a whole life or universal life policy with a cash value, you can borrow against it. Contact our support team for loan terms and conditions.",
+    "policy": "Life Insurance",
+    "id": "0460bc61"
+  },
+  {
+    "question": "How do I update the beneficiary on my policy?",
+    "text": "To update your beneficiary, log into your account and go to the 'Beneficiaries' section, or contact our support team for help.",
+    "policy": "Life Insurance",
+    "id": "d4057ef1"
+  },
+  {
+    "question": "What types of pets are covered?",
+    "text": "We offer coverage for cats, dogs, and some exotic pets. Contact us for details on which pets are eligible for coverage.",
+    "policy": "Pet Insurance",
+    "id": "4b731ccd"
+  },
+  {
+    "question": "Does pet insurance cover pre-existing conditions?",
+    "text": "Pre-existing conditions are generally not covered under pet insurance policies. Review your specific plan or contact support for more information.",
+    "policy": "Pet Insurance",
+    "id": "9171895c"
+  },
+  {
+    "question": "Are routine checkups covered?",
+    "text": "Routine checkups can be covered under certain pet insurance plans. Check your policy or contact us to learn more about available options.",
+    "policy": "Pet Insurance",
+    "id": "10667494"
+  },
+  {
+    "question": "Are mental health treatments covered?",
+    "text": "Yes, mental health treatments are covered under certain health insurance plans. Please refer to your policy document or contact support for specifics.",
+    "policy": "Health Insurance",
+    "id": "c945f8ac"
+  },
+  {
+    "question": "Can I add my family members to my health plan?",
+    "text": "You can add dependents, such as children and spouses, to your health plan. Contact our support team to discuss your options and any additional costs.",
+    "policy": "Health Insurance",
+    "id": "5cf86cea"
+  },
+  {
+    "question": "What is the difference between in-network and out-of-network coverage?",
+    "text": "In-network providers have negotiated rates with us, which often leads to lower out-of-pocket costs. Out-of-network services may not be fully covered or may incur higher costs. Check your policy for more details.",
+    "policy": "Health Insurance",
+    "id": "c34f962d"
+  },
+  {
+    "question": "Does my auto insurance cover rental cars?",
+    "text": "Some policies provide coverage for rental cars. Check your policy details or contact support to confirm.",
+    "policy": "Auto Insurance",
+    "id": "fe640160"
+  },
+  {
+    "question": "What should I do after an accident?",
+    "text": "In case of an accident, ensure safety first, call emergency services if needed, and document the accident details. Report the incident to us within 24 hours to start the claims process.",
+    "policy": "Auto Insurance",
+    "id": "0b1e9301"
+  },
+  {
+    "question": "Can I reduce my premium by driving less?",
+    "text": "Yes, some policies offer discounts based on mileage or driving habits. Contact us to see if you qualify for a usage-based discount.",
+    "policy": "Auto Insurance",
+    "id": "5670d12c"
+  },
+  {
+    "question": "Does home insurance cover natural disasters?",
+    "text": "Coverage for natural disasters varies by policy and location. Some natural disasters, like floods, may require additional coverage.",
+    "policy": "Home Insurance",
+    "id": "7bb09916"
+  },
+  {
+    "question": "How can I lower my home insurance premium?",
+    "text": "You can lower your premium by installing security systems, smoke detectors, and opting for a higher deductible. Contact support to explore available discounts.",
+    "policy": "Home Insurance",
+    "id": "ef167a4a"
+  },
+  {
+    "question": "Is my home business covered under my home insurance?",
+    "text": "Standard home insurance policies typically don't cover business-related claims. You may need a business endorsement or separate insurance for full coverage.",
+    "policy": "Home Insurance",
+    "id": "e9d21795"
+  },
+  {
+    "question": "What is the maximum duration for a single trip under travel insurance?",
+    "text": "The maximum duration for a single trip varies by plan but typically ranges from 30 to 180 days. Check your policy for specific details.",
+    "policy": "Travel Insurance",
+    "id": "4c5d73a5"
+  },
+  {
+    "question": "Does travel insurance cover trip cancellations?",
+    "text": "Yes, most plans cover cancellations due to unforeseen circumstances like illness or emergencies. Refer to your policy for the list of covered events.",
+    "policy": "Travel Insurance",
+    "id": "67ef1dd1"
+  },
+  {
+    "question": "How do I get an emergency medical evacuation covered?",
+    "text": "In case of a medical emergency, contact our 24/7 assistance line. Medical evacuations are typically covered if deemed medically necessary.",
+    "policy": "Travel Insurance",
+    "id": "5afadd3f"
+  },
+  {
+    "question": "Can I increase my life insurance coverage?",
+    "text": "Yes, you can increase your coverage depending on your policy. This may require additional underwriting. Contact support to learn more about the process.",
+    "policy": "Life Insurance",
+    "id": "defe0b68"
+  },
+  {
+    "question": "What is the difference between term and whole life insurance?",
+    "text": "Term life insurance provides coverage for a specified period, while whole life insurance covers you for life and has a cash value component. Review your options with an advisor for more guidance.",
+    "policy": "Life Insurance",
+    "id": "e32f0640"
+  },
+  {
+    "question": "Are there tax benefits with life insurance?",
+    "text": "Life insurance policies often provide tax advantages, such as tax-free death benefits. Consult a tax advisor to understand the benefits specific to your policy.",
+    "policy": "Life Insurance",
+    "id": "6f6ac3ce"
+  },
+  {
+    "question": "Are vaccinations covered under pet insurance?",
+    "text": "Routine vaccinations may be covered under wellness plans. Check your specific plan or add wellness coverage for vaccinations.",
+    "policy": "Pet Insurance",
+    "id": "0c74b834"
+  },
+  {
+    "question": "What does pet insurance typically cover?",
+    "text": "Pet insurance generally covers accidents, illnesses, surgeries, and medications. Coverage details vary, so refer to your policy document for specifics.",
+    "policy": "Pet Insurance",
+    "id": "07e9d330"
+  },
+  {
+    "question": "How can I make a claim for my pet's medical expenses?",
+    "text": "To make a claim, submit your pet\u00e2\u20ac\u2122s medical bill and any necessary documents via our online portal or app. Claims are typically processed within 7-10 business days.",
+    "policy": "Pet Insurance",
+    "id": "be068fe4"
+  },
+  {
+    "question": "What is covered under a home warranty?",
+    "text": "A home warranty typically covers repairs or replacements of major home systems and appliances. Check your contract for a specific list of covered items.",
+    "policy": "Home Warranty",
+    "id": "007bc2ee"
+  },
+  {
+    "question": "Does a home warranty cover accidental damage?",
+    "text": "Home warranties generally do not cover accidental or intentional damage. They cover wear-and-tear repairs on major systems and appliances only.",
+    "policy": "Home Warranty",
+    "id": "21461a2c"
+  },
+  {
+    "question": "How do I request a service for a home repair?",
+    "text": "To request a repair, call our service line or submit a request through our online portal. A technician will be dispatched within 48 hours.",
+    "policy": "Home Warranty",
+    "id": "0142bd62"
+  },
+  {
+    "question": "How does disability insurance work?",
+    "text": "Disability insurance provides income replacement if you\u00e2\u20ac\u2122re unable to work due to illness or injury. It typically covers a percentage of your salary during your recovery.",
+    "policy": "Disability Insurance",
+    "id": "0920124e"
+  },
+  {
+    "question": "Can I increase my disability coverage?",
+    "text": "You may be able to increase coverage depending on your policy and employment status. Contact support to explore additional options.",
+    "policy": "Disability Insurance",
+    "id": "f54b796c"
+  },
+  {
+    "question": "Are mental health-related disabilities covered?",
+    "text": "Yes, mental health-related disabilities are covered in some plans, provided they meet the criteria outlined in your policy. Contact support for specific policy terms.",
+    "policy": "Disability Insurance",
+    "id": "8b2a3126"
+  },
+  {
+    "question": "What is the maximum contribution limit?",
+    "text": "The maximum contribution limit varies by plan type and age group. Refer to IRS guidelines or contact us for specific contribution limits.",
+    "policy": "Retirement Savings Plan",
+    "id": "d3fe9719"
+  },
+  {
+    "question": "Can I make withdrawals before retirement?",
+    "text": "Withdrawals before retirement are possible, but may incur taxes or penalties. Certain exceptions apply, so consult your policy or an advisor for guidance.",
+    "policy": "Retirement Savings Plan",
+    "id": "d09cd087"
+  },
+  {
+    "question": "Is there an option to increase my contributions automatically?",
+    "text": "Yes, most plans offer an automatic contribution increase option to help grow your savings over time. Contact support to set this up.",
+    "policy": "Retirement Savings Plan",
+    "id": "c3db6453"
+  },
+  {
+    "question": "What services are covered under long-term care insurance?",
+    "text": "Long-term care insurance typically covers services like nursing home care, home health care, and assisted living. Coverage varies, so refer to your policy for specifics.",
+    "policy": "Long-Term Care Insurance",
+    "id": "96de9551"
+  },
+  {
+    "question": "Are there age restrictions for purchasing long-term care insurance?",
+    "text": "While there are no strict age limits, premiums are generally lower for younger applicants. Contact support to discuss your eligibility and options.",
+    "policy": "Long-Term Care Insurance",
+    "id": "6bd8ac5c"
+  },
+  {
+    "question": "Can I transfer my policy to another provider?",
+    "text": "Policy transfer options depend on the provider's policies. Some plans are portable, while others are not. Contact support to learn more about your options.",
+    "policy": "Long-Term Care Insurance",
+    "id": "7fa6a976"
+  },
+  {
+    "question": "What does identity theft protection cover?",
+    "text": "Identity theft protection covers monitoring for fraud, recovery assistance, and may reimburse certain losses related to identity theft. Refer to your policy for details.",
+    "policy": "Identity Theft Protection",
+    "id": "e3452203"
+  },
+  {
+    "question": "How do I report a potential identity theft?",
+    "text": "Report potential identity theft immediately via our hotline or online portal. A representative will guide you through the next steps to secure your identity.",
+    "policy": "Identity Theft Protection",
+    "id": "aef07139"
+  },
+  {
+    "question": "Can family members be added to my identity theft plan?",
+    "text": "Yes, some plans allow you to add family members for additional protection. Check with support to learn about available family plan options.",
+    "policy": "Identity Theft Protection",
+    "id": "6e4c7066"
+  },
+  {
+    "question": "Does rental insurance cover accidental damage?",
+    "text": "Rental insurance often covers accidental damage to personal belongings but not to the property itself. Review your policy for coverage limits and exclusions.",
+    "policy": "Rental Insurance",
+    "id": "1517e524"
+  },
+  {
+    "question": "Can rental insurance cover temporary living expenses?",
+    "text": "Yes, if your rental becomes uninhabitable due to a covered event, rental insurance may cover temporary housing costs. Check your policy for specifics.",
+    "policy": "Rental Insurance",
+    "id": "5b44ce49"
+  },
+  {
+    "question": "What is not covered under rental insurance?",
+    "text": "Rental insurance typically does not cover flood or earthquake damage, business equipment, or intentional damage. Refer to your policy for exclusions.",
+    "policy": "Rental Insurance",
+    "id": "c19e783d"
+  },
+  {
+    "question": "Does vision insurance cover prescription glasses?",
+    "text": "Most vision plans cover prescription glasses, including lenses and frames, up to a certain allowance. Contact support to check your specific coverage.",
+    "policy": "Vision Insurance",
+    "id": "0e53de47"
+  },
+  {
+    "question": "How often can I get an eye exam under vision insurance?",
+    "text": "Typically, vision insurance covers one eye exam per year. Check your policy to confirm your plan's exam frequency.",
+    "policy": "Vision Insurance",
+    "id": "ea858176"
+  },
+  {
+    "question": "Are contacts covered by vision insurance?",
+    "text": "Yes, contacts are generally covered, though allowances and coverage limits may vary. Consult your policy for specific details on contact lens coverage.",
+    "policy": "Vision Insurance",
+    "id": "fb7bc9aa"
+  },
+  {
+    "question": "Are orthodontic treatments covered under dental insurance?",
+    "text": "Orthodontic treatments, such as braces, may be covered under certain plans, especially for minors. Contact support to confirm your coverage options.",
+    "policy": "Dental Insurance",
+    "id": "1e20132c"
+  },
+  {
+    "question": "What is the waiting period for major procedures?",
+    "text": "Waiting periods for major procedures like crowns and implants can range from 6 to 12 months, depending on the plan. Check your policy for specifics.",
+    "policy": "Dental Insurance",
+    "id": "c7337855"
+  },
+  {
+    "question": "Are dental cleanings covered?",
+    "text": "Yes, most dental plans cover routine cleanings and preventive care. Check your policy for frequency limits and co-pays.",
+    "policy": "Dental Insurance",
+    "id": "7717dcc3"
+  },
+  {
+    "question": "What types of cyber incidents are covered?",
+    "text": "Cyber liability insurance covers incidents like data breaches, malware attacks, and ransomware. Refer to your policy for specific coverage details.",
+    "policy": "Cyber Liability Insurance",
+    "id": "e4509a20"
+  },
+  {
+    "question": "Does cyber liability insurance cover legal fees?",
+    "text": "Yes, many plans cover legal fees associated with responding to a cyber incident. Confirm your coverage with your policy details.",
+    "policy": "Cyber Liability Insurance",
+    "id": "56d545f5"
+  },
+  {
+    "question": "Is there a deductible for cyber liability insurance claims?",
+    "text": "Most policies include a deductible for claims. The amount varies by plan, so refer to your specific policy to confirm the deductible.",
+    "policy": "Cyber Liability Insurance",
+    "id": "0fb214e3"
+  },
+  {
+    "question": "What does EPLI cover?",
+    "text": "EPLI provides coverage for claims related to employment practices, such as wrongful termination, harassment, and discrimination. Consult your policy for details.",
+    "policy": "Employment Practices Liability Insurance (EPLI)",
+    "id": "fa4e6106"
+  },
+  {
+    "question": "Are independent contractors covered by EPLI?",
+    "text": "Coverage for independent contractors varies by policy. Some policies include them, while others do not. Check with support to confirm.",
+    "policy": "Employment Practices Liability Insurance (EPLI)",
+    "id": "e7e5c3fb"
+  },
+  {
+    "question": "Does EPLI cover defense costs?",
+    "text": "Yes, many EPLI policies cover defense costs related to employment claims. Review your policy for specific details.",
+    "policy": "Employment Practices Liability Insurance (EPLI)",
+    "id": "f25b37df"
+  },
+  {
+    "question": "What does professional liability insurance cover?",
+    "text": "Professional liability insurance covers errors, omissions, and negligence claims made against professionals. Refer to your policy for specific coverage.",
+    "policy": "Professional Liability Insurance",
+    "id": "e6f3f64c"
+  },
+  {
+    "question": "Can I add additional insureds to my policy?",
+    "text": "Yes, many policies allow you to add additional insureds. Contact support for information on adding people or entities to your policy.",
+    "policy": "Professional Liability Insurance",
+    "id": "d96d4bdd"
+  },
+  {
+    "question": "Are legal fees covered under professional liability insurance?",
+    "text": "Legal fees related to defending claims are typically covered by professional liability insurance. Review your policy for exact terms.",
+    "policy": "Professional Liability Insurance",
+    "id": "2e7681fa"
+  },
+  {
+    "question": "Does flood insurance cover personal belongings?",
+    "text": "Flood insurance covers personal belongings, but coverage limits apply. Refer to your policy for details on coverage limits.",
+    "policy": "Flood Insurance",
+    "id": "50c25002"
+  },
+  {
+    "question": "Is flood insurance mandatory?",
+    "text": "Flood insurance may be required in high-risk areas or as mandated by lenders. Contact support or refer to local regulations for requirements.",
+    "policy": "Flood Insurance",
+    "id": "9bc776df"
+  },
+  {
+    "question": "What is the waiting period for flood insurance to become effective?",
+    "text": "The standard waiting period is 30 days after policy purchase, though some exceptions apply. Check your policy for any waiting period specifics.",
+    "policy": "Flood Insurance",
+    "id": "15dbc99a"
+  },
+  {
+    "question": "What does health insurance cover?",
+    "text": "Health insurance typically covers doctor visits, hospital stays, prescription medications, preventive care, and medical tests. Some policies may offer additional wellness benefits.",
+    "policy": "Health Insurance",
+    "id": "b3a6ea86"
+  },
+  {
+    "question": "Can I choose my healthcare provider?",
+    "text": "Most health insurance plans offer network providers. If you choose a provider outside the network, you may incur additional costs.",
+    "policy": "Health Insurance",
+    "id": "8dd8ea76"
+  },
+  {
+    "question": "Is dental and vision care covered under health insurance?",
+    "text": "Dental and vision care are often not included in standard health insurance policies, though separate plans or add-ons are usually available.",
+    "policy": "Health Insurance",
+    "id": "6210e0d3"
+  },
+  {
+    "question": "What is the difference between in-network and out-of-network providers?",
+    "text": "In-network providers have agreed to discounted rates with your insurance, while out-of-network providers may result in higher out-of-pocket costs.",
+    "policy": "Health Insurance",
+    "id": "53291814"
+  },
+  {
+    "question": "Are pre-existing conditions covered?",
+    "text": "Most health insurance plans cover pre-existing conditions, though specific terms may vary by policy. Check your policy details for any limitations.",
+    "policy": "Health Insurance",
+    "id": "ba39fa50"
+  },
+  {
+    "question": "What does auto insurance cover?",
+    "text": "Auto insurance typically covers liability for bodily injury, property damage, and may also include collision and comprehensive coverage for your own vehicle.",
+    "policy": "Auto Insurance",
+    "id": "ed157cff"
+  },
+  {
+    "question": "Does my policy cover rental cars?",
+    "text": "Some auto insurance policies cover rental cars, but it's best to confirm with your provider. Coverage details may vary depending on your policy.",
+    "policy": "Auto Insurance",
+    "id": "2c59e922"
+  },
+  {
+    "question": "What is uninsured motorist coverage?",
+    "text": "Uninsured motorist coverage protects you if you're in an accident with a driver who doesn't have insurance. It may also cover underinsured drivers.",
+    "policy": "Auto Insurance",
+    "id": "8ade9655"
+  },
+  {
+    "question": "Does my auto insurance cover natural disasters?",
+    "text": "Comprehensive auto insurance usually covers natural disasters like floods, storms, and fires. Check with your provider to confirm coverage.",
+    "policy": "Auto Insurance",
+    "id": "832ff4c6"
+  },
+  {
+    "question": "Can I add another driver to my auto insurance policy?",
+    "text": "Yes, you can usually add other drivers to your policy. Contact your provider for specifics, as adding drivers may affect your premium.",
+    "policy": "Auto Insurance",
+    "id": "2ff1a299"
+  },
+  {
+    "question": "What does homeowners insurance cover?",
+    "text": "Homeowners insurance covers damages to your home and personal property due to events like fire, theft, and some natural disasters. It may also include liability protection.",
+    "policy": "Homeowners Insurance",
+    "id": "c1ec38d4"
+  },
+  {
+    "question": "Are floods and earthquakes covered under homeowners insurance?",
+    "text": "Floods and earthquakes are typically excluded and require separate policies. Contact your provider for additional coverage options.",
+    "policy": "Homeowners Insurance",
+    "id": "e7803778"
+  },
+  {
+    "question": "Can I make claims for damage to personal belongings?",
+    "text": "Yes, most homeowners policies cover personal belongings up to a certain limit. High-value items may need additional coverage.",
+    "policy": "Homeowners Insurance",
+    "id": "6aa41fe4"
+  },
+  {
+    "question": "Does homeowners insurance cover temporary lodging expenses?",
+    "text": "If your home becomes uninhabitable due to a covered event, many policies cover temporary living expenses. Check your policy for exact terms.",
+    "policy": "Homeowners Insurance",
+    "id": "3b58c210"
+  },
+  {
+    "question": "Can I adjust my coverage limits for specific items?",
+    "text": "Yes, you can often adjust limits for valuable items like jewelry and electronics. Speak with your provider to add riders for specific possessions.",
+    "policy": "Homeowners Insurance",
+    "id": "2a71a5bd"
+  },
+  {
+    "question": "What does pet insurance cover?",
+    "text": "Pet insurance typically covers accidents, illnesses, and emergency care for pets. Some policies may also include wellness care. Refer to your policy for specifics.",
+    "policy": "Pet Insurance",
+    "id": "6d25ea81"
+  },
+  {
+    "question": "Can I choose my veterinarian?",
+    "text": "Yes, most pet insurance plans allow you to choose any licensed veterinarian, though some policies may have network restrictions.",
+    "policy": "Pet Insurance",
+    "id": "1246e8b1"
+  },
+  {
+    "question": "Is preventive care included in pet insurance?",
+    "text": "Preventive care, like vaccinations and check-ups, may be included as an add-on. Check with your provider for available wellness coverage.",
+    "policy": "Pet Insurance",
+    "id": "db0e2a62"
+  },
+  {
+    "question": "What does travel insurance typically cover?",
+    "text": "Travel insurance generally covers trip cancellations, medical emergencies, lost luggage, and delays. Review your policy for exact coverage details.",
+    "policy": "Travel Insurance",
+    "id": "7c1bbdaa"
+  },
+  {
+    "question": "Can I get coverage for trip cancellation due to COVID-19?",
+    "text": "Some plans provide coverage for COVID-19 related cancellations. Check with your provider for specific COVID-19 policies.",
+    "policy": "Travel Insurance",
+    "id": "fdaba3d5"
+  },
+  {
+    "question": "What is excluded from travel insurance?",
+    "text": "Common exclusions include pre-existing conditions, extreme sports, and non-medical emergencies. Refer to your policy for a full list.",
+    "policy": "Travel Insurance",
+    "id": "f39285f8"
+  },
+  {
+    "question": "What types of life insurance are available?",
+    "text": "Life insurance options include term life, whole life, and universal life policies. Contact support to understand which option best meets your needs.",
+    "policy": "Life Insurance",
+    "id": "7cfbcede"
+  },
+  {
+    "question": "Can I change my life insurance beneficiaries?",
+    "text": "Yes, most life insurance policies allow you to change beneficiaries at any time. Contact support for assistance with updates.",
+    "policy": "Life Insurance",
+    "id": "ef7d9253"
+  },
+  {
+    "question": "Are there penalties for early withdrawals?",
+    "text": "Some life insurance policies have cash value you can access, but early withdrawals may incur penalties. Check your policy for details.",
+    "policy": "Life Insurance",
+    "id": "b1e16dec"
+  },
+  {
+    "question": "What does homeowners insurance cover?",
+    "text": "Homeowners insurance covers your home and personal property against risks like fire, theft, and liability. Specifics vary by policy.",
+    "policy": "Homeowners Insurance",
+    "id": "c1ec38d4"
+  },
+  {
+    "question": "Are natural disasters covered under homeowners insurance?",
+    "text": "Coverage for natural disasters like floods and earthquakes usually requires additional policies. Contact support for disaster coverage options.",
+    "policy": "Homeowners Insurance",
+    "id": "dbe24b7a"
+  },
+  {
+    "question": "Can I make claims for temporary lodging expenses?",
+    "text": "Yes, if your home becomes uninhabitable due to a covered event, many policies cover temporary living expenses. Review your policy for details.",
+    "policy": "Homeowners Insurance",
+    "id": "00e368b1"
+  },
+  {
+    "question": "What does disability insurance cover?",
+    "text": "Disability insurance provides income replacement if you cannot work due to illness or injury. Refer to your policy for the benefit amount and duration.",
+    "policy": "Disability Insurance",
+    "id": "0e9c2a3c"
+  },
+  {
+    "question": "What is the waiting period for disability benefits?",
+    "text": "The waiting period varies by policy, typically ranging from 30 to 90 days. Check your policy for the exact waiting period.",
+    "policy": "Disability Insurance",
+    "id": "e4804ecd"
+  },
+  {
+    "question": "Can I receive partial disability benefits?",
+    "text": "Some policies offer partial benefits if you can work part-time. Contact support for details about partial disability options.",
+    "policy": "Disability Insurance",
+    "id": "29b13d2c"
+  },
+  {
+    "question": "What is an HSA?",
+    "text": "An HSA, or Health Savings Account, is a tax-advantaged account used to pay for qualifying medical expenses. It is available with high-deductible health plans.",
+    "policy": "Health Savings Account (HSA)",
+    "id": "177d062e"
+  },
+  {
+    "question": "What expenses can be paid for with an HSA?",
+    "text": "Eligible expenses include prescription medications, doctor visits, and medical equipment. Refer to IRS guidelines for a full list of qualified expenses.",
+    "policy": "Health Savings Account (HSA)",
+    "id": "cb2f95ef"
+  },
+  {
+    "question": "Can I roll over unused HSA funds?",
+    "text": "Yes, HSA funds roll over year-to-year, allowing you to save unused money for future medical expenses.",
+    "policy": "Health Savings Account (HSA)",
+    "id": "bc24c3f1"
+  },
+  {
+    "question": "What is umbrella insurance?",
+    "text": "Umbrella insurance provides extra liability coverage beyond standard policies, like auto or homeowners insurance. It protects assets against major claims.",
+    "policy": "Umbrella Insurance",
+    "id": "afdeb119"
+  },
+  {
+    "question": "Does umbrella insurance cover business liabilities?",
+    "text": "No, umbrella insurance typically covers personal liability, not business. Business coverage requires a separate commercial policy.",
+    "policy": "Umbrella Insurance",
+    "id": "23c1ddf9"
+  },
+  {
+    "question": "What are the limits for umbrella coverage?",
+    "text": "Coverage limits vary, with options generally ranging from $1 million to $5 million. Check with your provider to discuss coverage needs.",
+    "policy": "Umbrella Insurance",
+    "id": "e4453a56"
+  },
+  {
+    "question": "What is student loan protection?",
+    "text": "Student loan protection helps cover loan payments if you face disability or job loss. Contact support to learn about policy options and benefits.",
+    "policy": "Student Loan Protection",
+    "id": "6aaaa6d0"
+  },
+  {
+    "question": "Does student loan protection cover both federal and private loans?",
+    "text": "Coverage often depends on the policy, but many plans protect both types of loans. Check with your provider for specific coverage details.",
+    "policy": "Student Loan Protection",
+    "id": "b024d6b7"
+  },
+  {
+    "question": "How long are benefits available?",
+    "text": "Benefit periods vary, typically from 6 to 24 months, depending on the policy. Contact support to understand your plan\u00e2\u20ac\u2122s terms.",
+    "policy": "Student Loan Protection",
+    "id": "1ec615ec"
+  },
+  {
+    "question": "What does critical illness insurance cover?",
+    "text": "Critical illness insurance provides a lump-sum payment if you're diagnosed with specific conditions like cancer, heart attack, or stroke.",
+    "policy": "Critical Illness Insurance",
+    "id": "ad53b768"
+  },
+  {
+    "question": "Is there a waiting period before coverage starts?",
+    "text": "Yes, there\u00e2\u20ac\u2122s often a waiting period of around 30 days. Check your policy for exact details on waiting periods.",
+    "policy": "Critical Illness Insurance",
+    "id": "f582d582"
+  },
+  {
+    "question": "Are pre-existing conditions covered?",
+    "text": "Pre-existing conditions are generally not covered. Review your policy or contact support for more information on exclusions.",
+    "policy": "Critical Illness Insurance",
+    "id": "804e660a"
+  },
+  {
+    "question": "What types of events can be covered?",
+    "text": "Event insurance can cover a range of events like weddings, corporate gatherings, and concerts. Coverage varies, so consult with your provider for options.",
+    "policy": "Event Insurance",
+    "id": "16f256fd"
+  },
+  {
+    "question": "What does event insurance cover?",
+    "text": "Event insurance generally covers liability, cancellation, and property damage. Check your policy for specific inclusions.",
+    "policy": "Event Insurance",
+    "id": "9c223188"
+  },
+  {
+    "question": "Are refunds available if the event is canceled?",
+    "text": "Yes, if cancellation is covered by the policy, you may be eligible for a refund. Confirm terms with your provider for cancellation coverage.",
+    "policy": "Event Insurance",
+    "id": "0ef96a26"
+  },
+  {
+    "question": "What is the deductible for health insurance?",
+    "text": "The deductible is the amount you pay out-of-pocket for healthcare before your insurance begins to cover expenses. Deductible amounts vary by plan.",
+    "policy": "Health Insurance",
+    "id": "0f4be87d"
+  },
+  {
+    "question": "Does health insurance cover mental health services?",
+    "text": "Many health insurance plans cover mental health services, including therapy and counseling. Review your policy details for specific coverage and limits.",
+    "policy": "Health Insurance",
+    "id": "06c4aff0"
+  },
+  {
+    "question": "Are alternative treatments like acupuncture covered?",
+    "text": "Some policies cover alternative treatments such as acupuncture, but coverage varies. Check with your provider to confirm eligibility.",
+    "policy": "Health Insurance",
+    "id": "33b833b1"
+  },
+  {
+    "question": "How can I find a specialist within my network?",
+    "text": "Your insurance provider typically has an online directory where you can search for in-network specialists. Contact customer support if you need further assistance.",
+    "policy": "Health Insurance",
+    "id": "69a68a7f"
+  },
+  {
+    "question": "Is maternity care covered by health insurance?",
+    "text": "Most health insurance plans include maternity care, covering prenatal visits, labor, and delivery. However, some policies may have specific terms, so check your plan.",
+    "policy": "Health Insurance",
+    "id": "ca30fa4c"
+  },
+  {
+    "question": "What is collision coverage in auto insurance?",
+    "text": "Collision coverage helps pay for damage to your vehicle after a collision with another car or object, regardless of fault. It's an optional coverage in many policies.",
+    "policy": "Auto Insurance",
+    "id": "aa35b652"
+  },
+  {
+    "question": "Will my insurance premium increase after an accident?",
+    "text": "Premiums often increase after an at-fault accident, though the amount varies by provider and policy terms. Some policies offer accident forgiveness.",
+    "policy": "Auto Insurance",
+    "id": "c3433791"
+  },
+  {
+    "question": "Does auto insurance cover theft of my car?",
+    "text": "Comprehensive auto insurance typically covers theft. Liability-only policies do not cover theft, so review your policy details for coverage.",
+    "policy": "Auto Insurance",
+    "id": "c1927431"
+  },
+  {
+    "question": "What is personal injury protection (PIP) in auto insurance?",
+    "text": "PIP covers medical expenses and lost wages for you and passengers after an accident, regardless of fault. It's mandatory in some states but optional in others.",
+    "policy": "Auto Insurance",
+    "id": "a127c202"
+  },
+  {
+    "question": "Are my personal belongings in the car covered if stolen?",
+    "text": "Personal belongings are usually not covered under auto insurance. However, homeowners or renters insurance may cover items stolen from your car.",
+    "policy": "Auto Insurance",
+    "id": "47fc13cf"
+  },
+  {
+    "question": "Does homeowners insurance cover water damage?",
+    "text": "Homeowners insurance typically covers sudden and accidental water damage, but not gradual issues like leaks. Flood damage requires separate coverage.",
+    "policy": "Homeowners Insurance",
+    "id": "5d3910b1"
+  },
+  {
+    "question": "How is the rebuilding cost of my home calculated?",
+    "text": "Rebuilding cost is based on current construction costs and the materials needed to rebuild your home. Your insurer may assess this periodically.",
+    "policy": "Homeowners Insurance",
+    "id": "14e418e7"
+  },
+  {
+    "question": "Does homeowners insurance cover injuries on my property?",
+    "text": "Homeowners insurance usually includes liability coverage, which can help with medical and legal expenses if someone is injured on your property.",
+    "policy": "Homeowners Insurance",
+    "id": "9e5a7f13"
+  },
+  {
+    "question": "What is a home inventory, and should I have one?",
+    "text": "A home inventory is a list of your belongings. Having one can help you file claims accurately if items are lost, damaged, or stolen.",
+    "policy": "Homeowners Insurance",
+    "id": "1a3f88db"
+  },
+  {
+    "question": "Are appliances covered under homeowners insurance?",
+    "text": "Damage to appliances is covered if caused by a covered peril (like fire). Routine maintenance or mechanical breakdowns are not usually covered.",
+    "policy": "Homeowners Insurance",
+    "id": "48ff8508"
+  },
+  {
+    "question": "What is a deductible?",
+    "text": "A deductible is the amount you pay out of pocket for healthcare services before your health insurance begins to pay.",
+    "policy": "Health Insurance",
+    "id": "c3c7d6ae"
+  },
+  {
+    "question": "How do I find a doctor in my network?",
+    "text": "You can find a doctor in your network by checking your insurance provider's website or contacting their customer service for a list of in-network providers.",
+    "policy": "Health Insurance",
+    "id": "cf839493"
+  },
+  {
+    "question": "What are pre-existing conditions?",
+    "text": "Pre-existing conditions are health issues you had before your health insurance coverage began. Under the Affordable Care Act, insurers cannot deny coverage based on these conditions.",
+    "policy": "Health Insurance",
+    "id": "ed63da86"
+  },
+  {
+    "question": "Will my health insurance cover prescription drugs?",
+    "text": "Most health insurance plans include prescription drug coverage, but it's important to check the specific formulary to see which medications are covered.",
+    "policy": "Health Insurance",
+    "id": "598b479a"
+  },
+  {
+    "question": "How can I appeal a denied health insurance claim?",
+    "text": "To appeal a denied claim, contact your insurance provider to request a review, provide any supporting documentation, and follow their specific appeals process.",
+    "policy": "Health Insurance",
+    "id": "df49edcd"
+  },
+  {
+    "question": "What is liability insurance?",
+    "text": "Liability insurance covers damages to other people and their property if you're at fault in an accident. It does not cover your own vehicle.",
+    "policy": "Auto Insurance",
+    "id": "7d67895c"
+  },
+  {
+    "question": "What factors can affect my auto insurance rates?",
+    "text": "Factors that can affect your auto insurance rates include your age, driving record, location, vehicle type, and credit score.",
+    "policy": "Auto Insurance",
+    "id": "2ad31428"
+  },
+  {
+    "question": "Can I transfer my auto insurance policy to another vehicle?",
+    "text": "Yes, you can typically transfer your auto insurance policy to another vehicle, but you should inform your insurance provider to adjust your coverage accordingly.",
+    "policy": "Auto Insurance",
+    "id": "e6073c1e"
+  },
+  {
+    "question": "What is comprehensive coverage?",
+    "text": "Comprehensive coverage protects against damages to your vehicle not involving a collision, such as theft, vandalism, or natural disasters.",
+    "policy": "Auto Insurance",
+    "id": "27848cad"
+  },
+  {
+    "question": "What happens if I let someone else drive my car?",
+    "text": "If you let someone else drive your car, your insurance typically covers them as long as they have permission to use the vehicle. However, it's best to check your policy details.",
+    "policy": "Auto Insurance",
+    "id": "a9d28da5"
+  },
+  {
+    "question": "What is personal property coverage?",
+    "text": "Personal property coverage helps pay for damages or losses to your personal belongings, such as furniture, electronics, and clothing, due to covered events.",
+    "policy": "Homeowners Insurance",
+    "id": "a398e7a6"
+  },
+  {
+    "question": "Do I need homeowners insurance if my home is paid off?",
+    "text": "While it's not legally required, having homeowners insurance is highly recommended to protect your investment from potential risks and damages.",
+    "policy": "Homeowners Insurance",
+    "id": "84eaa3b8"
+  },
+  {
+    "question": "What is the difference between actual cash value and replacement cost coverage?",
+    "text": "Actual cash value coverage pays for damages minus depreciation, while replacement cost coverage pays the full cost to replace damaged property without factoring in depreciation.",
+    "policy": "Homeowners Insurance",
+    "id": "c9110b8f"
+  },
+  {
+    "question": "Is my home-based business covered by my homeowners insurance?",
+    "text": "Most standard homeowners insurance policies do not cover business-related activities or equipment. You may need additional business insurance for adequate coverage.",
+    "policy": "Homeowners Insurance",
+    "id": "8ee51a47"
+  },
+  {
+    "question": "What should I do if I experience water damage in my home?",
+    "text": "If you experience water damage, report it to your insurance provider immediately, document the damage with photos, and start necessary repairs to prevent further damage.",
+    "policy": "Homeowners Insurance",
+    "id": "cb5d1d56"
+  },
+  {
+    "question": "Can I use my health insurance when traveling abroad?",
+    "text": "Many health insurance plans do not cover care received outside your home country. Consider purchasing travel insurance for coverage while abroad.",
+    "policy": "Health Insurance",
+    "id": "1386k509"
+  },
+  {
+    "question": "What is comprehensive auto insurance?",
+    "text": "Comprehensive insurance covers damages to your car from non-collision events like theft, vandalism, fire, or natural disasters.",
+    "policy": "Auto Insurance",
+    "id": "3ccba661"
+  },
+  {
+    "question": "What does homeowners insurance typically cover?",
+    "text": "Homeowners insurance generally covers the structure of your home, personal belongings, liability protection, and additional living expenses if you are temporarily unable to live in your home.",
+    "policy": "Home Insurance",
+    "id": "fb23c4a9"
+  },
+  {
+    "question": "Are preventive care services covered under my health insurance?",
+    "text": "Most health insurance plans cover preventive care services, such as vaccinations, annual check-ups, and screenings, at no additional cost when provided by in-network providers.",
+    "policy": "Health Insurance",
+    "id": "b739d5f2"
+  },
+  {
+    "question": "Does auto insurance cover rental cars?",
+    "text": "In most cases, your auto insurance policy extends coverage to rental cars within the same country, but it’s best to confirm with your provider and consider rental insurance for additional protection.",
+    "policy": "Auto Insurance",
+    "id": "2b64a11d"
+  },
+  {
+    "question": "Is flood damage covered under my homeowners insurance?",
+    "text": "Flood damage is generally not covered by standard homeowners insurance policies. You may need to purchase separate flood insurance to be protected.",
+    "policy": "Home Insurance",
+    "id": "9a56c38e"
+  },
+  {
+    "question": "What is the waiting period for my health insurance coverage?",
+    "text": "The waiting period for health insurance varies by provider and plan type. Check your policy for specific details on when benefits become active.",
+    "policy": "Health Insurance",
+    "id": "5e84f1c9"
+  },
+  {
+    "question": "Does auto insurance cover damage from hitting a deer?",
+    "text": "Yes, if you have comprehensive auto insurance, it typically covers damages resulting from hitting an animal, including deer.",
+    "policy": "Auto Insurance",
+    "id": "7d27f4b3"
+  },
+  {
+    "question": "What is the deductible on my home insurance policy?",
+    "text": "The deductible is the amount you pay out of pocket before your home insurance coverage takes effect. Deductible amounts vary based on your policy.",
+    "policy": "Home Insurance",
+    "id": "1c4f7f84"
+  },
+  {
+    "question": "How often do I need to renew my health insurance?",
+    "text": "Health insurance plans typically require renewal annually. Check with your provider for specific dates to avoid a lapse in coverage.",
+    "policy": "Health Insurance",
+    "id": "fa60b2d5"
+  },
+  {
+    "question": "Is my car covered if it’s stolen?",
+    "text": "If you have comprehensive auto insurance, it typically covers theft of your vehicle. Contact your provider immediately to report the incident.",
+    "policy": "Auto Insurance",
+    "id": "2f4b9a77"
+  },
+  {
+    "question": "Does my homeowners insurance cover personal belongings?",
+    "text": "Yes, homeowners insurance usually covers personal belongings in your home, such as furniture, electronics, and clothing, up to the policy limits.",
+    "policy": "Home Insurance",
+    "id": "6d3c8e1b"
+  },
+  {
+    "question": "What happens if I miss a health insurance premium payment?",
+    "text": "If you miss a premium payment, you may have a grace period to pay it before your coverage is canceled. Check with your provider for specific details.",
+    "policy": "Health Insurance",
+    "id": "3b84a2f1"
+  },
+  {
+    "question": "Will my auto insurance cover damage from a hailstorm?",
+    "text": "Yes, if you have comprehensive auto insurance, it generally covers damages caused by natural events like hailstorms.",
+    "policy": "Auto Insurance",
+    "id": "9f45c2e9"
+  },
+  {
+    "question": "Does my home insurance cover temporary living expenses?",
+    "text": "If your home is uninhabitable due to a covered event, your homeowners insurance typically covers additional living expenses while repairs are made.",
+    "policy": "Home Insurance",
+    "id": "4d3b1c5d"
+  }
+]
