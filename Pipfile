@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+elasticsearch = "*"
+python-dotenv = "*"
+rich = "*"
+graphviz = "*"
+backoff = "*"
+psycopg2 = "*"
+fastapi = "*"
+uvicorn = "*"
+langchain = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
